@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+header{
+    font-family: 'Albert Sans', sans-serif;
+    line-height: 1.4;
+    letter-spacing: 3rem;
+    margin-bottom: 60px 
+}
+h1{
+    font-family: 'Goblin One', cursive;
+    font-size: 85px;
+    margin-top: 45px ;
+    margin-bottom: 60px;
+}
+h3{
+    font-family: 'Albert Sans', sans-serif ;
+    font-size: 14px;
+    text-align: left;
+}
+main{
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+
+}
+button{
+    padding: 10px 15px;
+    background-color: white;
+    color: black;
+    border: 0;
+    /* border: 1px solid black;  */
+    margin-bottom: 60px;
+    cursor: pointer;
+}
+li{
+    list-style-type: none;
+    font-family: 'Albert Sans', sans-serif;
+    text-align: left;
+}
+
+img{
+    width: 300px;
+}
+
+.parent-img-container{
+    text-align: center;
+    padding-bottom: 160px;
+}
+
+.header-paragraph{
+    font-family: 'Albert Sans', sans-serif;
+    word-wrap: break-word;
+    word-break: break-all;
+    font-size: 20px;
+    margin-bottom: 60px ;
+}
+.text-color{
+    color: white;
+}
+
+.minimal-paragraph{
+    margin-top: 60px;
+    font-family: 'Albert Sans', sans-serif;
+}
+.card-container{
+    background-color: #d6d6d6;
+    width:100%; 
+    margin: auto;
+    /* top: 50%; */
+    /* left: 50%; */
+    /* position: relative; */
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    margin:60px 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    line-height: 3rem; 
+    padding-right: 15px;
+    background-color: #cfcfcf;
+    border-radius: 30px;
+    
+}
+.price-para{
+    font-size: 40px;
+    font-family:'Goblin One', cursive ;
+}
+
+.card-btn{
+    width: 100%;
+    background-color: black;
+    color: #cfcfcf;
+}
