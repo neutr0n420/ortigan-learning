@@ -1,0 +1,6 @@
+p .para{
+    background-color:yellow ;
+}
+div, .para{
+    background-color: aqua;
+}
