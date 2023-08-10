@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 800px;
+    align-items: end;
+}
+img{
+    width: 450px;
+    opacity: 0.5;
+    
+}
+img:hover{
+    opacity: 1;
+}
+.card{
+    background-color: chartreuse;
+    margin: 6px;
+    text-align: center;
+    width: 450px;
+}
