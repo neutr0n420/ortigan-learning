@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  padding: 8px;
+  background-color: #d6d6d6;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+flex-flow: column;
+  height: 225px;
+}
+.card {
+  padding: 8px;
+  width: 300px;
+  background-color: #cfcfcf;
+  margin: 8px;
+  text-align: center;
+}
