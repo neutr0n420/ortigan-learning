@@ -1,0 +1,45 @@
+a{
+   text-decoration: none;
+   color: initial;
+}
+h3{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 100;
+    
+}
+.searchBox{
+    display: flex;
+    justify-content: center; 
+}
+
+.name-search{
+    padding: 12px 84px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-right: 8px;
+}
+.submit-btn{
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 8px 24px;
+    margin-left: 8px ;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+.displayPhoto{
+    width: 300px;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+.nms{
+    font-weight: 800;
+    font-family: sans-serif;
+}
